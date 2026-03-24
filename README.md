@@ -167,7 +167,6 @@ Text-to-Speech (TTS) + GUI Output
 * ✅ Achieved **95.02% classification accuracy**
 * ⚡ Real-time inference on edge device
 * 💰 Received **₹37,000 funding** by Innovative and Entrepreneurship Development Centres (IEDC) from Indian Govt.
-* 📄 Published in [IJERT](https://www.ijert.org/research/symptoms-extraction-from-a-voice-input-using-natural-language-processing-IJERTV9IS040645.pdf)
 
 ---
 ## 📄 Publication
